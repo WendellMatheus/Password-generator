@@ -1,2 +1,2 @@
 # Password-generator
-Inspired by Matheus Fraga from "Sujeito programador". Source: https://youtu.be/i6t2jaRxos4
+Desenvolvido um gerador de senhas com JavaScript, Referencias do Matheus Fraga from 'Sujeito programador'.
